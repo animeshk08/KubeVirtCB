@@ -13,3 +13,5 @@ This repository is maintained by:
 **Animesh Kumar**<br>
 Email: animuz111@gmail.com<br>
 Github: [animeshk08](https://github.com/animeshk08)
+
+Please ping me on my email or open an issue on this repository for any communications!

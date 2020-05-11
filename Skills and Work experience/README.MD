@@ -10,14 +10,18 @@ Since [CNCF](https://github.com/cncf) has one of the largest collection of GoLan
 repositories, that is when I came to know about Community Bridge and [KubeVirt](https://github.com/kubevirt/kubevirt) project. 
 This would be the first time I am contributing to an open source project written primarily in GoLang.
 
-Some of my smaller GoLang projects can be found [here](./Golang).
+I have upload some of my smaller GoLang projects on Github:
+* [Simple shell in Go](https://github.com/animeshk08/simple-go-shell)
+* [Key value store in Go](https://github.com/animeshk08/go-keyvalues-store)
+* [Chatroom using Go and gRPC](https://github.com/animeshk08/chatroom)
+* [Simple distributed system using Go, gRPC, NATS streaming and CockroachDB](https://github.com/animeshk08/distributed-go)
 
 ### Kubernetes
 
 I have used Kubernetes in many of my previous projects. Some of them include:
 * ##### Deploying full automated Canary deployment of Django webapp.
 
-I have deployed the following django application as a canary deployment on Kubernetes.
+I have deployed [this](https://github.com/animeshk08/foodex) django application as a canary deployment on Kubernetes.
 The work involved around setting up a multi-node kubernetes cluster on Google Cloud, creating deployments and services
 and setting up automated rolling update.
 
